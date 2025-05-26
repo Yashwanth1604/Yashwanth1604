@@ -1,12 +1,37 @@
-### Hi there 👋 I'm Yashwanth!
+# 👋 Hello! I'm Yashwanth
 
-- 👀 I’m interested in **watching cricket** and exploring tech!
-- 🌱 I’m currently a **BTech 1st Year CSE student**, learning programming and development.
-- 💻 I’m learning languages like **C, Python, and HTML/CSS**.
-- 💬 I love to collaborate on **beginner-friendly projects** and learning communities.
-- 📫 Reach out to me on Instagram: [@mr_yashwanth_1604](https://instagram.com/mr_yashwanth_1604)
+🎓 BTech CSE Student | 🖥️ Aspiring Developer | 🏏 Cricket Lover
+
+---
+
+## 🧠 About Me
+
+- 🌱 Currently learning **programming** in my 1st year of BTech (CSE)
+- 👀 Passionate about **tech**, **cricket**, and always curious to explore new things
+- 🛠️ Learning **C**, **Python**, **HTML**, and slowly exploring **Git & GitHub**
+- 🤝 Looking to collaborate on **beginner-friendly open-source projects**
+- 📫 DM me on Instagram: [@mr_yashwanth_1604](https://instagram.com/mr_yashwanth_1604)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can watch a whole cricket match without missing a single ball 😄
+- ⚡ Fun Fact: I never miss a ball in a good cricket match! 🎯
+
+---
+
+## 🚀 My GitHub Stats
+
+![Yashwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashwanth1604&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth1604&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Let's Connect!
+
+[![Instagram Badge](https://img.shields.io/badge/-@mr_yashwanth_1604-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/mr_yashwanth_1604)](https://instagram.com/mr_yashwanth_1604)
+
+---
+
+> 💬 “Learning to code is like learning a new language, but way more fun!
+
 
 ---
 
